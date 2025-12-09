@@ -1,0 +1,5 @@
+sep=,
+ID,Date-timestamp,Level-3-Fejl,Level-3-Fejl-type-A,Level-3-Fejl-type-B,Level-3-Tid,Level-4-Fejl,Level-4-Fejl-type-A,Level-4-Fejl-type-B,Level-4-Tid,Level-5-Fejl,Level-5-Fejl-type-A,Level-5-Fejl-type-B,Level-5-Tid,Level-6-Fejl,Level-6-Fejl-type-A,Level-6-Fejl-type-B,Level-6-Tid,Level-7-Fejl,Level-7-Fejl-type-A,Level-7-Fejl-type-B,Level-7-Tid,Level-8-Fejl,Level-8-Fejl-type-A,Level-8-Fejl-type-B,Level-8-Tid,Level-9-Fejl,Level-9-Fejl-type-A,Level-9-Fejl-type-B,Level-9-Tid,Level-10-Fejl,Level-10-Fejl-type-A,Level-10-Fejl-type-B,Level-10-Tid
+
+666,03-12-2025 11:50:49,0,0,0,00:08:90,0,0,0,00:11:1,1,0,1,00:29:86,6,5,1,00:22:7,1,0,1,00:18:16,1,1,0,00:22:46,
+
